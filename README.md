@@ -1,9 +1,26 @@
-# Vue 3 + TypeScript + Vite
+<h1 align="center">ChromeExtention</h1>
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
+</p>
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
 
-## Recommended Setup
+> Vue + Typescript + crxjs 开发谷歌浏览器插件
+>
+> 通过侧边栏调用 openai 的 api 
 
-- [VS Code](https://code.visualstudio.com/) + [Vue - Official](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (previously Volar) and disable Vetur
+## Demo
 
-- Use [vue-tsc](https://github.com/vuejs/language-tools/tree/master/packages/tsc) for performing the same type checking from the command line, or for generating d.ts files for SFCs.
+
+
+## Install
+
+```sh
+pnpm install
+```
+
+## Usage
+
+```sh
+pnpm run dev
+```
+
