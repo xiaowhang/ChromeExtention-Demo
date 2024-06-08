@@ -12,6 +12,10 @@
 
 
 
+https://github.com/xiaowhang/ChromeExtention-Demo/assets/120718501/f5f72023-eb50-4964-9503-7a93520bc1c0
+
+
+
 ## Install
 
 ```sh
