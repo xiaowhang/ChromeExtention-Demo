@@ -1,4 +1,4 @@
-<h1 align="center">ChromeExtention</h1>
+<h1 align="center">ChromeExtention Demo</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
 </p>
@@ -11,9 +11,7 @@
 ## Demo
 
 
-
-https://github.com/xiaowhang/ChromeExtention-Demo/assets/120718501/f5f72023-eb50-4964-9503-7a93520bc1c0
-
+https://github.com/xiaowhang/ChromeExtention-Demo/assets/120718501/f2a2481a-6ff4-4aee-9819-61525955bf7a
 
 
 ## Install
