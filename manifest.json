@@ -1,0 +1,28 @@
+{
+  "manifest_version": 3,
+  "name": "chatgpt chrome ext",
+  "version": "1.0.0",
+  "description": "this is my Crxjs&Vue Chrome ext",
+  "icon": {
+    "32": "img.png"
+  },
+  "action": {
+    "default_icon": "img.png",
+    "default_title": "点击图标打开侧边栏"
+  },
+  "side_panel": {
+    "default_path": "index.html",
+    "openPanelOnActionClick": true
+  },
+  "background": {
+    "service_worker": "./src/background/service-worker.ts"
+  },
+  "permissions": [
+    "sidePanel",
+    "action",
+    "storage"
+  ],
+  "content_security_policy": {
+    "extension_pages": "script-src 'self'; object-src 'self';"
+  }
+}
