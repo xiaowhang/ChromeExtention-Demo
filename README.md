@@ -6,7 +6,7 @@
 
 > Vue + Typescript + crxjs 开发谷歌浏览器插件
 >
-> 通过侧边栏调用 openai 的 api 
+> 通过浏览器侧边栏调用 openai 的 api 
 
 ## Demo
 
@@ -24,5 +24,11 @@ pnpm install
 
 ```sh
 pnpm run dev
+```
+
+## Build
+
+```sh
+pnpm run build
 ```
 
